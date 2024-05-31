@@ -1,1 +1,1 @@
-# S-P_Stock_Analysis
+This Repository contains all datasets and files that were used for the project 'SENSEX Stock Prices Analysis'
